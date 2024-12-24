@@ -59,7 +59,7 @@ For EEG data:
 
 This repository was created by **Hangbin Zhang** and is inspired by the work of:  
 - **Xilin Shen** ([Shen et al., 2017](https://www.nature.com/articles/nprot.2016.178.pdf))  
-- **Yumeng Ju** ([[GitHub Repository](https://github.com/jym115/CPM_MDD_long_term))
+- **Yumeng Ju** ([GitHub Repository](https://github.com/jym115/CPM_MDD_long_term))
 
 ## Citation
 
